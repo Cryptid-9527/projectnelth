@@ -14,4 +14,7 @@ modern Setup, confirmed with successful compile.
 Project Neltharion, as most recently existed in October 2023.
 Published for anyone interested in running a decent cataclysm experience.
 
-This project is the result of four years of veteran player collaboration, with a focus on endgame replay value and solving long-standing problems. For the full public changelog leading up to the october 6 2023 release, check the file next to the main readme.
+This project is the result of four years of veteran player collaboration, with a focus on endgame replay value and solving long-standing problems. 
+For the full public changelog leading up to the october 6 2023 release, check the file next to the main readme.
+
+For website support with this core, contact the core's primary web developer Darksider (Discord: d4rksid3r, 172643476029177856)
