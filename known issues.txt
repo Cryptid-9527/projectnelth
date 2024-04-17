@@ -1,0 +1,8 @@
+Crossfaction morphing visual issue:
+- Periodically there's a function that forces a player to remember "old" battleground data (DoForgetPlayersInBG?) and corrects a different player's data to their old race.
+This becomes an issue when players are swapping sides constantly.
+
+- Logging out has long been an instability problem. Various bugs go everywhere into the core.
+- Some old scripts are just unstable. Way too many chained pointers without null checks. I've knocked them down by the hundreds but some old shit is just too fucked and we didn't want to disable it.
+
+- Item recovery saving was a cause of MAJOR memory access issues. It was gutted entireely once we identified the problem.
