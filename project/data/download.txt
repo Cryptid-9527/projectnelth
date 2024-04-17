@@ -1,0 +1,5 @@
+Map data is specialized for Project Neltharion.
+- Tree collisions
+- Strand of the Ancients Gates behave properly
+
+https://drive.google.com/file/d/1xJcusFgYYOSarPM-6WRmNJLP5hzSKKmf/view?usp=sharing
