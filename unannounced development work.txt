@@ -1,0 +1,26 @@
+Lots of work during project neltarion was 2 steps forward, 1 step back. 
+Probably 30% of the time spent on the project was re-doing things to satisfy a particular issue.
+None of that work was ever reflected in public changelogs.
+
+
+We implemented countless staff integrity, staff capability, and automated security features.
+I can only think of so many off the top of my head.
+
+- There is absolutely zero automated mutes or bans anywhere in our core. We all agreed it would be wrong and unwise to allow a computer to ban players.
+- We do, however, have several effort-frustrating automations in place.
+
+- Account flags, independant of security levels. Mostly used for the <DEV> Tag, but other uses are possible.
+- IP masking; Game Masters have no true need to see Raw IPs.
+- IP/Account History overlap lookups: with IPs masked, it was now safe to give GMs full reign to cross reference account and IP history.
+- Report Acknowledgements: When a GM or Mod acts on an account, the server scans through report logs and mails players with a notice that a player they had reported is banned.
+- Carbon copy system; world config controls which channels are carbon copied into a gm-only global "gmfeed" channel.
+- Shadow Muting, with false indications on say, yell, whisper, guild, raid, party, trade, duel, and mail.
+- Loot chance lookup commands; a set of commands which can be used to thoroughly understand live loot chances.
+- Head Game Master improved stealth: accounts with access_flags of head gm would enter a heightened offline state, invisible to other staff.
+- Command logs lookup command
+- Battleground scripted anticheat rules, basic timer and logic checks will punish players with death or a 24 hour deserter penalty.
+- Arena spell placement accuracy and kick timing logs, used for identifying patterns that would indicate someone using scripts.
+- Global announcements of anticheat detection with a cooldown so game masters are not overwhelmed.
+
+
+Check through world config and commands database to find most security development.
