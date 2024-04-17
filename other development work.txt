@@ -23,4 +23,4 @@ I can only think of so many off the top of my head.
 - Global announcements of anticheat detection with a cooldown so game masters are not overwhelmed.
 
 
-Check through world config and commands database to find most security development.
+Check through world config and commands database to find most security development. I CBA going back and thinking of everything we threw in.
