@@ -1,5 +1,5 @@
 # projectnelth
- Project Neltharion, Full Oct 2023 Release version
+ Project Neltharion 4.3.4, Full Oct 2023 Release version
 
 
 modern Setup, confirmed with successful compile.
