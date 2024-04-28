@@ -19,7 +19,7 @@ This release is "final", as there will be no further support by myself or under 
 The final product is not perfect, as finding more imperfections than you can fix is a natural part of reverse engineering a game. 
 The 4 year changelog may be impressive, but our project also started with a source we felt, at the time, was 'almost' complete before spending 4 years working on it.
 
-I have a few pieces of advice for those looking develop starting with this core:
+I have a few pieces of advice for those looking to start with this core:
 - Do not hold your breathe waiting for someone else to come fix it for you.
 - Do not shy away from breaking stuff in the process of a fix.
 - Spend plenty of time skimming existing code, as learning to fix issues is a process that snowballs. 
